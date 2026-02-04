@@ -1,0 +1,11 @@
+1.0
+Function works. Code cleaned up. Submitted for review.
+
+1.1
+Changed logic to block any url containing setting, config or option 
+
+1.1.1
+Changed icon naming. There was a discrepancy in file name case, leading to non-windows OSs being incompatible
+    now wondering if functionality is affected differently due to case
+
+Added "dashboard" to list of blocked keywords
